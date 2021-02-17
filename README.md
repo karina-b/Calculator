@@ -5,9 +5,9 @@ Android studio was used to create a simple calculator. The app depends on API 23
 The calculator has two modes (1) Basic mode (2) Formula Entry mode. To switch between modes, simply click the Mode button which will allow you to alternate between the modes.
 The app has a layout that arranges the display and buttons such that they make effective use of the screen space.
 The app meets all the requirements for Basic Operation. In addition, the following additional features were included:
- -> Add and implement the decimal (.) key.
- -> Formula Entry
- -> A toggle button for switching between formula entry and basic mode.
+ (1)Add and implement the decimal (.) key.
+ (2)Formula Entry
+ (3)A toggle button for switching between formula entry and basic mode.
  
  BASIC MODE:
 ⚫ The app has two separate layouts for portrait and landscape views as shown in the
